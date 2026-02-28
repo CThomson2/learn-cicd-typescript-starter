@@ -2,7 +2,7 @@ import { describe, expect, test } from "vitest";
 import { getAPIKey } from "../auth";
 
 const person = {
-    isActive: false,
+    isActive: true,
     age: 32
 };
 
