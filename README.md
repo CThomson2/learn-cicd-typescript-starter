@@ -2,6 +2,8 @@
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
+[![ci](https://github.com/CThomson2/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/CThomson2/learn-cicd-typescript-starter/actions/workflows/ci.yml)
+
 ## Local Development
 
 Make sure you're on Node version 22+.
